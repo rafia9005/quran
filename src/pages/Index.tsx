@@ -17,7 +17,7 @@ export default function Index() {
 
   return (
     <IndexLayout>
-      <h1 className="text-center font-extrabold text-4xl text-gray-100 mb-8">Online Qur'an</h1>
+      <h1 className="text-center font-extrabold text-4xl text-gray-100 mb-8">Qur'an</h1>
       <div className="flex justify-center items-center mb-8">
         <input
           value={searchTerm}
