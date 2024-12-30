@@ -1,4 +1,3 @@
-
 import { useParams } from 'react-router-dom';
 import { useFetchDetailSurah } from '../hooks/useFetchSurah';
 import IndexLayout from '../components/layouts/IndexLayout';

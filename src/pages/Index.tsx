@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import IndexLayout from '../components/layouts/IndexLayout';
 import { useFetchSurah } from '../hooks/useFetchSurah';
 import SurahList from '../components/fragments/SurahList';

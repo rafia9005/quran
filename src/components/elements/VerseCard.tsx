@@ -1,4 +1,3 @@
-import React from 'react';
 import { Verse } from '../../types';
 
 interface VerseCardProps {

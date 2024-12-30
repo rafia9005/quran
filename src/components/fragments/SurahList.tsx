@@ -1,4 +1,3 @@
-import React from 'react';
 import SurahCard from '../elements/SurahCard';
 import { Surah } from '../../types';
 

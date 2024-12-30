@@ -1,4 +1,3 @@
-import React from 'react';
 import VerseCard from '../elements/VerseCard';
 import { Surah } from '../../types';
 
